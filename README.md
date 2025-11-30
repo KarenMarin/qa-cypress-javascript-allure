@@ -1,0 +1,1 @@
+# qa-cypress-javascript-allure
