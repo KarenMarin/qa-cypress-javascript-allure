@@ -14,7 +14,8 @@ Este projeto demonstra um fluxo completo de testes automatizados E2E utilizando:
 
 * ✔ Boas práticas de QA
 
-> [!NOTE] O objetivo é servir como portfólio para vagas de QA, mostrando habilidades reais em automação.
+> [!NOTE]
+> O objetivo é servir como portfólio para vagas de QA, mostrando habilidades reais em automação.
 
 🚀 Tecnologias Utilizadas
 | Tecnologia |	Função |
